@@ -1,0 +1,14 @@
+html {
+  position:relative;
+  min-height: 100%;
+}
+
+body > .container{
+  padding-top: 60px;
+}
+
+
+.form-group.required .control-label:after { 
+  content:"*";
+  color:red;
+}
