@@ -1,4 +1,3 @@
-Front end is mostly Bootstrap. 
 # Asset Management System
 ===
 built with Laravel 4.2
